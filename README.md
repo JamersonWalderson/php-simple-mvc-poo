@@ -1,2 +1,2 @@
 # php-simple-mvc-poo
-Exemplo simples de MVC usando PHP e orientação a objetos.
+Simple example of MVC using PHP and object orientation.
