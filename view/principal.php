@@ -1,7 +1,9 @@
 <?php 
 
+/** Camada de exibição das informações, aqui fica toda a folha de estilo da página */    
     require_once("controller/ControllerMessage.php");
     $show = new ControllerMessage();
+    
 ?>
 
 <!DOCTYPE html>

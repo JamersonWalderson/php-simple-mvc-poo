@@ -1,7 +1,8 @@
 
 <?php
 /**
- *  Classe onde ficara toda a lógica da aplicação
+ *  Classe onde ficara toda a lógica da aplicação, caso a aplicação tivesse banco de dados
+ *  os códigos para manipular as tabelas ficariam aqui.
  */
 class Message {
 
